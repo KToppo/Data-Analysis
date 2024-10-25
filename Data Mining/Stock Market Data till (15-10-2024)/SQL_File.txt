@@ -1,0 +1,5 @@
+Due to the large file size of the SQL it can't be shared here
+
+The SQL file contain the mine data of all the equity share listed in NSE
+
+you can download it from:- https://drive.google.com/file/d/1P6PS4toQvrTGqTMG6yBQ7C5ZWhM6uHBg/view?usp=sharing
