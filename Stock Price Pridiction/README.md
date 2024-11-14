@@ -11,7 +11,7 @@ This Python script provides functionalities for portfolio risk and return analys
 
 **Dependencies:**
 
-  - `nselib`: Install with `pip install nselib` ([https://pypi.org/project/nselib/](https://www.google.com/url?sa=E&source=gmail&q=https://pypi.org/project/nselib/)).
+  - `nselib`: Install with `pip install nselib` ([https://pypi.org/project/nselib/](https://pypi.org/project/nselib/)).
   - `pandas`: Usually pre-installed in most scientific Python environments. Consider `pip install pandas` if needed.
   - `tqdm`: Install with `pip install tqdm` for progress bar visualization.
   - `numpy`: Usually pre-installed in most scientific Python environments. Consider `pip install numpy` if needed.
